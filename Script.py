@@ -6,32 +6,14 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a>,🦋ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴀɴʏ ᴍᴏᴠɪᴇs , ᴡᴇʙsᴇʀɪᴇs , ᴀɴɪᴍᴇs 🎥 ᴊᴜsᴛ ᴊɪᴏɴ ᴍʏ ʙᴇʟᴏᴡ ɢʀᴏᴜᴘs 
 ᴀɴᴅ sᴇᴀʀᴄʜ ғᴏʀ ᴀɴʏ ᴀɴɪᴍᴇs 💞 
-
-🦋ᴊᴏɪɴ ɢʀᴏᴜᴘ 𝟷 : <a href='https://t.me/+QX8_YtJsbfFkNDc1'>ℂ𝕃𝕀ℂ𝕂 ℍ𝔼ℝ𝔼   </a>
-
-🦋ᴊᴏɪɴ ɢʀᴏᴜᴘ 𝟸 : <a href='https://t.me/+fWFg2oxW7rYwODY1'>ℂ𝕃𝕀ℂ𝕂 ℍ𝔼ℝ𝔼 </a>
-
-🦋 ᴊᴏɪɴ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/Animedekho123'>ℂ𝕃𝕀ℂ𝕂 ℍ𝔼ℝ𝔼 </a>
-
-🦋 ᴊᴏɪɴ ʙᴀᴄᴋᴜᴘ ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/+o4D0NVz7jMdmMjVl'>ℂ𝕃𝕀ℂ𝕂 ℍ𝔼ℝ𝔼 </a>
-
-🦋 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :  <a href='https://t.me/+e5uvqoDtvCdjNGZl'>ℂ𝕃𝕀ℂ𝕂 ℍ𝔼ℝ𝔼 </a>
-
-🌟 𝑬𝑳𝒊𝑻𝑬 𝑴𝑬𝑴𝑩𝑬𝑹𝑺𝑯𝒊𝑷 🌟
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-🛎 𝑩𝒖𝒚 ‛𝑬𝒍𝒊𝒕𝒆 𝑴𝒆𝒎𝒃𝒆𝒓𝒔𝒉𝒊𝒑’ & 𝑮𝒆𝒕 𝑨𝒍𝒍 𝑨𝒏𝒊𝒎𝒆, 𝑺𝒆𝒓𝒊𝒆𝒔, 𝑴𝒐𝒗𝒊𝒆𝒔 & 𝑴𝒐𝒓𝒆 𝑰𝒏 𝑫𝒊𝒓𝒆𝒄𝒕 𝑭𝒊𝒍𝒆𝒔 𝑾𝒊𝒕𝒉 𝑺𝒕𝒓𝒆𝒂𝒎 𝑨𝒏𝒅 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝑳𝒊𝒏𝒌𝒔 𝑾𝒊𝒕𝒉𝒐𝒖𝒕 𝑨𝒏𝒚 𝑨𝒅𝒔 ! 𝑰𝒏 𝒃𝒐𝒕 <a href='https://t.me/Animedekho123'>@Animedekho123 </a>
-
-🦋𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑶𝒇𝒇𝒆𝒓
-
-🛍 𝑷𝒓𝒊𝒄𝒆 ➠ ₹𝟐𝟓/- 𝑷𝒆𝒓 𝑴𝒐𝒏𝒕𝒉!
-
-🗨 𝑻𝒆𝒙𝒕 ➠ <a href='https://t.me/rohan89274'>@Rohan</a>  𝒕𝒐 𝑩𝒖𝒚!</b>"""
+</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ✯ Editor: <a href='https://t.me/rohan89274'>Rohan karanje</a>
+✯ owner: <a href='https://t.me/VABBY09'>Mr. Vedant</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -39,16 +21,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """
-<b>🌟 𝑬𝑳𝒊𝑻𝑬 𝑴𝑬𝑴𝑩𝑬𝑹𝑺𝑯𝒊𝑷 🌟
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-🛎 𝑩𝒖𝒚 ‛𝑬𝒍𝒊𝒕𝒆 𝑴𝒆𝒎𝒃𝒆𝒓𝒔𝒉𝒊𝒑’ & 𝑮𝒆𝒕 𝑨𝒍𝒍 𝑨𝒏𝒊𝒎𝒆, 𝑺𝒆𝒓𝒊𝒆𝒔, 𝑴𝒐𝒗𝒊𝒆𝒔 & 𝑴𝒐𝒓𝒆 𝑰𝒏 𝑫𝒊𝒓𝒆𝒄𝒕 𝑭𝒊𝒍𝒆𝒔 𝑾𝒊𝒕𝒉 𝑺𝒕𝒓𝒆𝒂𝒎 𝑨𝒏𝒅 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝑳𝒊𝒏𝒌𝒔 𝑾𝒊𝒕𝒉𝒐𝒖𝒕 𝑨𝒏𝒚 𝑨𝒅𝒔 ! 𝑰𝒏 𝒃𝒐𝒕  <a href='https://t.me/Animedekho123'>@Animedekho123 </a>
-
-
-🦋𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑶𝒇𝒇𝒆𝒓
-
-🛍 𝑷𝒓𝒊𝒄𝒆 ➠ ₹𝟐𝟓/- 𝑷𝒆𝒓 𝑴𝒐𝒏𝒕𝒉!
-
-🗨 𝑻𝒆𝒙𝒕 ➠ <a href='https://t.me/rohan89274'>@Rohan</a>𝒕𝒐 𝑩𝒖𝒚!</b>"""
+hello"""
 
 
 
@@ -232,7 +205,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Size ⚙️: {file_size} @OUTFLiX 🦋</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
