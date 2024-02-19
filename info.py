@@ -121,9 +121,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://splendid-rina-vabbystark.koyeb.app/".format(FQDN)
+    URL = "https://outflix.onrender.com/".format(FQDN)
 else:
-    URL = "https://splendid-rina-vabbystark.koyeb.app/".format(FQDN)
+    URL = "https://outflix.onrender.com/".format(FQDN)
 
 
 
