@@ -18,9 +18,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '15630493'))
-API_HASH = environ.get('API_HASH', '411ca710711b1f6658dcb4723a51a886')
-BOT_TOKEN = environ.get('BOT_TOKEN', " 6501667936:AAE6JclPpH7wo0XG2dh-d6RsU2ngjeAds8I")
+API_ID = int(environ.get('API_ID', '24913545'))
+API_HASH = environ.get('API_HASH', '055eaef0a86cf5c5e8ac9aa165a5d4c7')
+BOT_TOKEN = environ.get('BOT_TOKEN', "6763062263:AAH4sHk7lC2Xxq7gbr14aZNAtNy0DGJ-Pqs")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
@@ -32,17 +32,17 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/a0aa65161ec712e
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/a0aa65161ec712e9302c2.jpg")
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1315497648').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', ' -1001824425943').split()]
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1315497648').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5097542189').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002008353176').split()]
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '5097542189').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
-auth_channel = environ.get('AUTH_CHANNEL', "-1001983076777")
+auth_channel = environ.get('AUTH_CHANNEL', "" -1002008353176)
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 support_chat_id = environ.get('SUPPORT_CHAT_ID', '')
-reqst_channel = environ.get('REQST_CHANNEL_ID', '-1001983076777')
+reqst_channel = environ.get('REQST_CHANNEL_ID', '')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
@@ -66,7 +66,7 @@ CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/OUTFLiX')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/OUTFLiX')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello iam outflix bot')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', "-1002106408620"))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002114130055'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+kPvF9mqB6GFkOGRl')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), True)
